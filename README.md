@@ -39,3 +39,10 @@ Schedulers:
 * Linear Decay
 * Factor Decay
 * MultiFactor Decay
+
+# Homework 4
+Segmentation task. Dataset - CT images of lungs.
+
+Still in progress...
+
+But you can check the intermediate results and code!
