@@ -1,0 +1,42 @@
+[
+  {
+    "image": "study_0258.nii.gz",
+    "label": "study_0258_mask.nii.gz"
+  },
+  {
+    "image": "study_0292.nii.gz",
+    "label": "study_0292_mask.nii.gz"
+  },
+  {
+    "image": "study_0280.nii.gz",
+    "label": "study_0280_mask.nii.gz"
+  },
+  {
+    "image": "study_0293.nii.gz",
+    "label": "study_0293_mask.nii.gz"
+  },
+  {
+    "image": "study_0279.nii.gz",
+    "label": "study_0279_mask.nii.gz"
+  },
+  {
+    "image": "study_0304.nii.gz",
+    "label": "study_0304_mask.nii.gz"
+  },
+  {
+    "image": "study_0277.nii.gz",
+    "label": "study_0277_mask.nii.gz"
+  },
+  {
+    "image": "study_0267.nii.gz",
+    "label": "study_0267_mask.nii.gz"
+  },
+  {
+    "image": "study_0275.nii.gz",
+    "label": "study_0275_mask.nii.gz"
+  },
+  {
+    "image": "study_0302.nii.gz",
+    "label": "study_0302_mask.nii.gz"
+  }
+]

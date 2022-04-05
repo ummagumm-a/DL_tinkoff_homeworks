@@ -1,0 +1,162 @@
+[
+  {
+    "image": "study_0301.nii.gz",
+    "label": "study_0301_mask.nii.gz"
+  },
+  {
+    "image": "study_0287.nii.gz",
+    "label": "study_0287_mask.nii.gz"
+  },
+  {
+    "image": "study_0299.nii.gz",
+    "label": "study_0299_mask.nii.gz"
+  },
+  {
+    "image": "study_0283.nii.gz",
+    "label": "study_0283_mask.nii.gz"
+  },
+  {
+    "image": "study_0295.nii.gz",
+    "label": "study_0295_mask.nii.gz"
+  },
+  {
+    "image": "study_0278.nii.gz",
+    "label": "study_0278_mask.nii.gz"
+  },
+  {
+    "image": "study_0259.nii.gz",
+    "label": "study_0259_mask.nii.gz"
+  },
+  {
+    "image": "study_0289.nii.gz",
+    "label": "study_0289_mask.nii.gz"
+  },
+  {
+    "image": "study_0272.nii.gz",
+    "label": "study_0272_mask.nii.gz"
+  },
+  {
+    "image": "study_0261.nii.gz",
+    "label": "study_0261_mask.nii.gz"
+  },
+  {
+    "image": "study_0270.nii.gz",
+    "label": "study_0270_mask.nii.gz"
+  },
+  {
+    "image": "study_0268.nii.gz",
+    "label": "study_0268_mask.nii.gz"
+  },
+  {
+    "image": "study_0296.nii.gz",
+    "label": "study_0296_mask.nii.gz"
+  },
+  {
+    "image": "study_0281.nii.gz",
+    "label": "study_0281_mask.nii.gz"
+  },
+  {
+    "image": "study_0286.nii.gz",
+    "label": "study_0286_mask.nii.gz"
+  },
+  {
+    "image": "study_0276.nii.gz",
+    "label": "study_0276_mask.nii.gz"
+  },
+  {
+    "image": "study_0274.nii.gz",
+    "label": "study_0274_mask.nii.gz"
+  },
+  {
+    "image": "study_0284.nii.gz",
+    "label": "study_0284_mask.nii.gz"
+  },
+  {
+    "image": "study_0290.nii.gz",
+    "label": "study_0290_mask.nii.gz"
+  },
+  {
+    "image": "study_0298.nii.gz",
+    "label": "study_0298_mask.nii.gz"
+  },
+  {
+    "image": "study_0264.nii.gz",
+    "label": "study_0264_mask.nii.gz"
+  },
+  {
+    "image": "study_0262.nii.gz",
+    "label": "study_0262_mask.nii.gz"
+  },
+  {
+    "image": "study_0282.nii.gz",
+    "label": "study_0282_mask.nii.gz"
+  },
+  {
+    "image": "study_0285.nii.gz",
+    "label": "study_0285_mask.nii.gz"
+  },
+  {
+    "image": "study_0271.nii.gz",
+    "label": "study_0271_mask.nii.gz"
+  },
+  {
+    "image": "study_0269.nii.gz",
+    "label": "study_0269_mask.nii.gz"
+  },
+  {
+    "image": "study_0257.nii.gz",
+    "label": "study_0257_mask.nii.gz"
+  },
+  {
+    "image": "study_0291.nii.gz",
+    "label": "study_0291_mask.nii.gz"
+  },
+  {
+    "image": "study_0266.nii.gz",
+    "label": "study_0266_mask.nii.gz"
+  },
+  {
+    "image": "study_0265.nii.gz",
+    "label": "study_0265_mask.nii.gz"
+  },
+  {
+    "image": "study_0297.nii.gz",
+    "label": "study_0297_mask.nii.gz"
+  },
+  {
+    "image": "study_0273.nii.gz",
+    "label": "study_0273_mask.nii.gz"
+  },
+  {
+    "image": "study_0263.nii.gz",
+    "label": "study_0263_mask.nii.gz"
+  },
+  {
+    "image": "study_0255.nii.gz",
+    "label": "study_0255_mask.nii.gz"
+  },
+  {
+    "image": "study_0294.nii.gz",
+    "label": "study_0294_mask.nii.gz"
+  },
+  {
+    "image": "study_0288.nii.gz",
+    "label": "study_0288_mask.nii.gz"
+  },
+  {
+    "image": "study_0300.nii.gz",
+    "label": "study_0300_mask.nii.gz"
+  },
+  {
+    "image": "study_0256.nii.gz",
+    "label": "study_0256_mask.nii.gz"
+  },
+  {
+    "image": "study_0260.nii.gz",
+    "label": "study_0260_mask.nii.gz"
+  },
+  {
+    "image": "study_0303.nii.gz",
+    "label": "study_0303_mask.nii.gz"
+  }
+]
